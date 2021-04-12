@@ -50,4 +50,4 @@ Les librairies dont nous aurons besoin :
 
 Nous utiliserons également le module d'affichage **Tkinter** fourni avec la version de base de Python.
 
-Nous pouvons ensuite passer à l'étape suivante. Téléchargez et ouvrez [le Notebook Jupyter présent ici.]()
+Nous pouvons ensuite passer à l'étape suivante. Téléchargez et ouvrez [le Notebook Jupyter présent ici.](1_modele.ipynb)
